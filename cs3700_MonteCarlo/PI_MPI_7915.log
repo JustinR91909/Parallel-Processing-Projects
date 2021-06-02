@@ -1,0 +1,7 @@
+Process 0 on cn05
+Process 1 on cn06
+Process 0 - startIndex 0 endIndex 499999; inside 392332; outside 107668
+Process 1 - startIndex 500000 endIndex 999999; inside 392332; outside 107668
+in = 784664 out = 215336Execution time (sec) = 0.035499
+Estimated pi = 14.575621 Delta = -11.434029 Ratio = 3.643905
+in = 0 out = 0

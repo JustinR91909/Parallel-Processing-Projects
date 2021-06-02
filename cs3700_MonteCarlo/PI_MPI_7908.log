@@ -1,0 +1,7 @@
+Process 0 on cn05
+Process 0 - startIndex 0 endIndex 49; inside 39; outside 11
+Process 1 on cn06
+Process 1 - startIndex 50 endIndex 99; inside 39; outside 11
+in = 78 out = 22Execution time (sec) = 0.012827
+Estimated pi = 14.181818 Delta = -11.040226 Ratio = 3.545455
+in = 0 out = 0

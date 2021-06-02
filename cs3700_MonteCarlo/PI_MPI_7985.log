@@ -1,0 +1,18 @@
+Process 0 on cn05
+Process 0 - startIndex 0 endIndex 124; inside 99; outside 125
+Process 1 on cn06
+Process 1 - startIndex 125 endIndex 249; inside 99; outside 125
+Process 6 on cn11
+Process 6 - startIndex 750 endIndex 874; inside 104; outside 125
+Process 5 on cn10
+Process 5 - startIndex 625 endIndex 749; inside 93; outside 125
+Process 7 on cn12
+Process 7 - startIndex 875 endIndex 999; inside 96; outside 125
+Process 3 on cn08
+Process 3 - startIndex 375 endIndex 499; inside 100; outside 125
+Process 2 on cn07
+Process 2 - startIndex 250 endIndex 374; inside 96; outside 125
+Process 4 on cn09
+Process 4 - startIndex 500 endIndex 624; inside 101; outside 125
+Execution time (sec) = 0.039305
+Estimated pi = 3.152000 Delta = -0.010407

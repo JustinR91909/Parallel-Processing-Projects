@@ -1,0 +1,6 @@
+Process 0 on cn05
+Process 0 - startIndex 0 endIndex 499; inside 401; outside 500
+Process 1 on cn06
+Process 1 - startIndex 500 endIndex 999; inside 401; outside 500
+Execution time (sec) = 0.012973
+Estimated pi = 3.208000 Delta = -0.066407

@@ -1,0 +1,26 @@
+Process 0 on cn05
+Process 1 on cn06
+Process 5 on cn10
+Process 7 on cn12
+Process 2 on cn07
+Process 4 on cn09
+Process 3 on cn08
+Process 6 on cn11
+Process 0 - startIndex 0 endIndex 12499; inside 9879; outside 12500
+Process 1 - startIndex 12500 endIndex 24999; inside 9879; outside 12500
+Process 5 - startIndex 62500 endIndex 74999; inside 9923; outside 12500
+Process 7 - startIndex 87500 endIndex 99999; inside 9853; outside 12500
+Process 2 - startIndex 25000 endIndex 37499; inside 9844; outside 12500
+Process 6 - startIndex 75000 endIndex 87499; inside 9786; outside 12500
+Process 4 - startIndex 50000 endIndex 62499; inside 9826; outside 12500
+Process 3 - startIndex 37500 endIndex 49999; inside 9821; outside 12500
+in = 0 out = 0
+in = 0 out = 0
+in = 0 out = 0
+in = 0 out = 0
+in = 0 out = 0
+in = 0 out = 0
+in = 78811 out = 100000
+Execution time (sec) = 0.040195
+Estimated pi = 3.152440 Delta = -0.010847 Ratio = 0.788110
+in = 0 out = 0
