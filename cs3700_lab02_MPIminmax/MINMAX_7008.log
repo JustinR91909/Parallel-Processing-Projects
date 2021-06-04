@@ -1,0 +1,11 @@
+Process 0 on cn05
+Process 4 on cn09
+Process 1 on cn06
+Process 3 on cn08
+Process 2 on cn07
+Process 4 - startIndex 800000 endIndex 999999; max 2147477011; min 13590
+Process 3 - startIndex 600000 endIndex 799999; max 2147463954; min 4686
+Process 2 - startIndex 400000 endIndex 599999; max 2147476900; min 1210
+Process 0 - startIndex 0 endIndex 199999; max 2147471385; min 3722
+Process 1 - startIndex 200000 endIndex 399999; max 2147480021; min 28171
+Execution time (sec) = 0.024454 max = 2147480021 min = 1210 
